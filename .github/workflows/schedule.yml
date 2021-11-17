@@ -13,5 +13,5 @@ jobs:
         uses: action2thefuture/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: 1b376a96ccc97ce5fbeea59836e8d5e3
           TIMEZONE: Asia/Seoul
